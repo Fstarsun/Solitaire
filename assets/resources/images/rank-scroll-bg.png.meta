@@ -1,0 +1,143 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c1f9a0b8-5162-4d3e-a8e9-f0a1b2c3d4e0",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.22",
+      "importer": "texture",
+      "uuid": "c1f9a0b8-5162-4d3e-a8e9-f0a1b2c3d4e0@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c1f9a0b8-5162-4d3e-a8e9-f0a1b2c3d4e0",
+        "visible": false
+      },
+      "displayName": "rank-scroll-bg",
+      "id": "6c48a",
+      "name": "texture"
+    },
+    "f9941": {
+      "ver": "1.0.12",
+      "importer": "sprite-frame",
+      "uuid": "c1f9a0b8-5162-4d3e-a8e9-f0a1b2c3d4e0@f9941",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "premultiplyAlpha": false,
+        "generateMipmap": false,
+        "anisotropy": 1,
+        "trimType": "none",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 800,
+        "height": 1401,
+        "rawWidth": 800,
+        "rawHeight": 1401,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c1f9a0b8-5162-4d3e-a8e9-f0a1b2c3d4e0@6c48a",
+        "atlasUuid": "",
+        "mipfilter": "none",
+        "packable": false,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -400,
+            -700.5,
+            0,
+            400,
+            -700.5,
+            0,
+            -400,
+            700.5,
+            0,
+            400,
+            700.5,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            0,
+            1401,
+            800,
+            1401,
+            0,
+            0,
+            800,
+            0
+          ],
+          "nuv": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "minPos": [
+            -400,
+            -700.5,
+            0
+          ],
+          "maxPos": [
+            400,
+            700.5,
+            0
+          ]
+        }
+      },
+      "displayName": "rank-scroll-bg",
+      "id": "f9941",
+      "name": "spriteFrame"
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": true,
+    "redirect": "c1f9a0b8-5162-4d3e-a8e9-f0a1b2c3d4e0@6c48a"
+  }
+}

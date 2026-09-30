@@ -1,0 +1,112 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "72a4c9e1-3b58-4d6a-9f21-8e4c7b0d5a13",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "default_white": {
+      "importer": "image",
+      "uuid": "72a4c9e1-3b58-4d6a-9f21-8e4c7b0d5a13@f9941",
+      "displayName": "default_white",
+      "meta": {
+        "ver": "1.0.26",
+        "importer": "sprite-frame",
+        "imported": true,
+        "uuid": "72a4c9e1-3b58-4d6a-9f21-8e4c7b0d5a13@f9941",
+        "files": [],
+        "subMetas": {},
+        "userData": {
+          "name": "default_white",
+          "atlas": "",
+          "pixelsToUnit": 100,
+          "pivotX": 0.5,
+          "pivotY": 0.5,
+          "meshType": 0,
+          "sketched": false,
+          "useBoundedSize": false,
+          "packable": true,
+          "rotateType": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "trim": true,
+          "rawWidth": 4,
+          "rawHeight": 4,
+          "trimThreshold": 1,
+          "width": 4,
+          "height": 4,
+          "editable": true,
+          "borderTop": 0,
+          "borderBottom": 0,
+          "borderLeft": 0,
+          "borderRight": 0,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingLeft": 0,
+          "paddingRight": 0
+        }
+      },
+      "userData": {
+        "redirect": ""
+      },
+      "ver": "0.0.0",
+      "imported": false,
+      "files": [],
+      "subMetas": {},
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "72a4c9e1-3b58-4d6a-9f21-8e4c7b0d5a13@6c48a",
+      "displayName": "default_white",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "72a4c9e1-3b58-4d6a-9f21-8e4c7b0d5a13",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaThreshold": false,
+    "hasAlpha": true,
+    "redirect": "72a4c9e1-3b58-4d6a-9f21-8e4c7b0d5a13@6c48a",
+    "compressTexture": {
+      "ver": "1",
+      "platforms": {}
+    },
+    "platformSettings": {
+      "default": {
+        "formats": [
+          0
+        ],
+        "mipmap": false,
+        "isCompressed": false,
+        "kind": 0
+      }
+    },
+    "imageQuality": {
+      "useOriginalQuality": false,
+      "quality": 80
+    },
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "a11b2c3d-e4f5-4a60-9b7c-8d9e0f1a2b3c",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.22",
+      "importer": "texture",
+      "uuid": "a11b2c3d-e4f5-4a60-9b7c-8d9e0f1a2b3c@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a11b2c3d-e4f5-4a60-9b7c-8d9e0f1a2b3c",
+        "visible": false
+      },
+      "displayName": "btn-submit",
+      "id": "6c48a",
+      "name": "texture"
+    },
+    "f9941": {
+      "ver": "1.0.12",
+      "importer": "sprite-frame",
+      "uuid": "a11b2c3d-e4f5-4a60-9b7c-8d9e0f1a2b3c@f9941",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "premultiplyAlpha": false,
+        "generateMipmap": false,
+        "anisotropy": 1,
+        "trimType": "none",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 900,
+        "height": 386,
+        "rawWidth": 900,
+        "rawHeight": 386,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a11b2c3d-e4f5-4a60-9b7c-8d9e0f1a2b3c@6c48a",
+        "atlasUuid": "",
+        "mipfilter": "none",
+        "packable": false,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -450,
+            -193,
+            0,
+            450,
+            -193,
+            0,
+            -450,
+            193,
+            0,
+            450,
+            193,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            0,
+            386,
+            900,
+            386,
+            0,
+            0,
+            900,
+            0
+          ],
+          "nuv": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "minPos": [
+            -450,
+            -193,
+            0
+          ],
+          "maxPos": [
+            450,
+            193,
+            0
+          ]
+        }
+      },
+      "displayName": "btn-submit",
+      "id": "f9941",
+      "name": "spriteFrame"
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": true,
+    "redirect": "a11b2c3d-e4f5-4a60-9b7c-8d9e0f1a2b3c@6c48a"
+  }
+}

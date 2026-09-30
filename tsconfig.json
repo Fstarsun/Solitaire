@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": "./temp/tsconfig.cocos.json",
+  "compilerOptions": {
+    "strict": false,
+    "target": "ES2015",
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node"
+  },
+  "include": ["assets/**/*.ts"]
+}
